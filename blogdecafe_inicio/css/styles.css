@@ -78,7 +78,7 @@ img {
 /** Header **/
 
 .webp .header {
-    background-image: url(../img/banner.webp);
+    background-image: url(http://test-opciones-cloudirbissw-caonyj-4f80ed-74-208-225-77.traefik.me/api/files/images.png?folder=primero);
 }
 
 .no-webp .header {
